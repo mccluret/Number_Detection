@@ -105,6 +105,6 @@ def whatNumIsThis(filePath):
 
        
 
-whatNumIsThis('images/test3.png')
+whatNumIsThis('images/test2.png')
  
          
