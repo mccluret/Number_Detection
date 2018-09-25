@@ -12,3 +12,14 @@ These numbers turned out great when drawing the number in the full 8x8 image.
 ![Result of 2](https://github.com/mccluret/Number_Detection/blob/master/ResultImages/Result_Num3.PNG)  
 ![Result of 9](https://github.com/mccluret/Number_Detection/blob/master/ResultImages/Result_Num9.PNG)
 
+  
+However, if the number is drawn perfectly and shifted or sized smaller then the detect is false.
+
+![Error Example](https://github.com/mccluret/Number_Detection/blob/master/ResultImages/ErrorExample.PNG)
+
+  
+  
+  
+
+
+
